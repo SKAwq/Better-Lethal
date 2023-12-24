@@ -3,7 +3,7 @@ download the BepInExPack core > start the game > exit > open files > replace the
 -if something doesn't work, try installing mods manually.
 
 # 1.0.0
-MODPACK BetterCompany
+MODPACK BetterCompany dd
 
 20+ mods
 
